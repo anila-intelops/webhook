@@ -24,13 +24,4 @@ my new commit
 my second commit
 Added a text file
 Added a text file
-Added a text file
-Added a text file
-Added a text file
-Added a text file
-Added a text file
-Added a text file
-Added a text file
-Added a text file
-Added a text file
-Added a text file
+
